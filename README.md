@@ -1,7 +1,7 @@
 # Waterfox for Void Linux
 This is a template for installing Waterfox on Void Linux.
 
-The template is originally created by [mobinmob](https://codeberg.org/mobinmob/abyss-packages), but I updated the version. I will update it when there's a new Waterfox version when I can.
+The template was originally created by [mobinmob](https://codeberg.org/mobinmob/abyss-packages), but I updated the version for Waterfox. I will update it when there's a new Waterfox version when I can.
 
 
 ## Installation steps
