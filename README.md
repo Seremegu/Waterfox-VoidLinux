@@ -11,7 +11,7 @@ Clone the void-packages repository: `git clone --depth 5 https://github.com/void
 
 Clone this repository: `git clone https://github.com/Seremegu/Waterfox-VoidLinux`
 
-Copy the 'waterfox' folder to void-packages/srcpkgs: `cp -r Waterfox-VoidLinux/waterfox /void-packages/srcpkgs`
+Copy the 'waterfox' folder to void-packages/srcpkgs: `cp -r Waterfox-VoidLinux/waterfox void-packages/srcpkgs`
 
 Go to void-packages: `cd void-packages`
 
